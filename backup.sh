@@ -11,8 +11,8 @@ renice -n 19 -p $$ > /dev/null 2>&1
 ionice -c 2 -n 7 -p $$ > /dev/null 2>&1
 
 # Set up Telegram bot API và chat ID
-BOT_API_KEY="6360723418:AAE-nXLphf2dGqEM_oKOMTvwQq9Otis5hQg"
-CHAT_ID="489842337"
+BOT_API_KEY="xxxx:xxx-xxxxxxxxxxxxxxx"
+CHAT_ID="xxxxxxxx"
 
 # Thiết lập biến cấu hình
 BORG_REPO="/root/borg-temp/borg-repo"
