@@ -29,7 +29,7 @@ KEEP_HOURLY=24
 KEEP_DAILY=31
 
 # Tham số này quyết định số lượng bản backup được giữ lại mỗi tháng. 
-# Trong trường hợp này, giữ lại mỗi tháng, nghĩa là 12 bản backup cho một năm hoặc 24 bản backup cho hai năm.
+# Trong trường hợp này, giữ lại mỗi tháng, nghĩa là 12 bản backup cho một năm.
 KEEP_MONTHLY=12
 
 # Thời gian chạy kiểm tra lại toàn bộ dữ liệu backup có bị lỗi không (quan trọng)
